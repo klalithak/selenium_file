@@ -1,0 +1,7 @@
+username = //*[@id='username']
+password = //*[@id='password']
+loginbutton = //*[@id='Login']
+firstname =UserFirstName
+lastname =UserLastName
+workemail =UserEmail
+jobtitle =#UserTitle-ED3l
